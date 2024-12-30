@@ -12,6 +12,6 @@
 </ul>
 
 <h2>Explore More</h2>
-<p>Check it out for yourself: <a href="https://zoekurtzer.github.io/zoekurtzer-website/">My Website</a></p>
+<p>Check out <a href="https://zoekurtzer.github.io/zoekurtzer-website/">my website</a></p>
 
 <p>Thanks for visiting!</p>
